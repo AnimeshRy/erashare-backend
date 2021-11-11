@@ -5,7 +5,7 @@
 
 
 <p align="center">
-  <img width="460" height="300" src="https://github.com/AnimeshRy/erashare-frontend/blob/main/picture.png">
+  <img width="460" height="300" src="https://github.com/AnimeshRy/erashare-frontend/raw/main/picture.png">
 </p>
 
 # EraShare
